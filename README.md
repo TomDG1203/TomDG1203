@@ -1,9 +1,11 @@
-# Tom De Groote
+# Welcome to Tom De Groote's Repo!
 
-I am Tom De Groote, a web programmer with over eight years of experience in developing user-friendly and efficient websites. I am highly motivated to continue learning and working on interesting projects for my clients.
+Hey there! My name is Tom De Groote and I'm a Java developer from Flanders, Belgium. I've been coding for over 10 years and have a lot of experience in developing and maintaining software applications.
 
-I have excellent knowledge of HTML, CSS, JavaScript and PHP and experience with CMS systems such as WordPress and Joomla. I am also good at teamwork and have strong communication skills.
+But enough about work, let's get to the fun stuff! When I'm not busy writing code, I love spending time with my husband and our adopted child. We love going on adventures and exploring new places. I'm also a big fan of video games and can often be found playing the latest releases on my gaming console.
 
-In my free time, I enjoy making music and playing guitar. I am also a big fan of technology and love keeping up with the latest trends and developments in my field.
+I'm excited to share my projects with you and hope you find them useful. Feel free to reach out to me if you have any questions or just want to chat.
 
-If you would like to learn more about my work or are interested in collaboration, please don't hesitate to contact me via my email address: tom@degroote.com. I look forward to working with you and helping you strengthen your online presence.
+Thanks for stopping by and have a great day!
+
+
